@@ -66,7 +66,7 @@ Focus: Examines party-wise strategies and performance using vote share, winning 
 
 -Data Cleaning & Transformation
 ## Dataset
-Click here to view the dataset<a href="https://github.com/Snehal-1308/ElectViz-Election-Data-Visualization-for-Media/blob/main/Election%20Dataset.xlsx">Election_Dataset</a> 
+Click here to view the dataset<a href="https://github.com/Snehal-1308/ElectViz-Election-Data-Visualization-for-Media/blob/main/Election%20Dataset.xlsx"> Election_Dataset</a> 
 ## Key Insights
 -Identified top-performing political parties across years
 
