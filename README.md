@@ -29,6 +29,8 @@ Focus: Provides a high-level summary of the entire election dataset, including t
 -Highlights vote share distribution among major and minor parties
 
 -Provides a quick snapshot for media-level understanding
+<img width="1441" height="808" alt="Screenshot 2026-03-23 140000" src="https://github.com/user-attachments/assets/a075b856-d5d3-488f-95cc-a1fe0bb8683f" />
+
 ### 2.State Analysis 
 Focus: Analyzes election data at the state level, showing how voting patterns and party performance vary across different regions.
 ### Key Insights:
@@ -39,6 +41,8 @@ Focus: Analyzes election data at the state level, showing how voting patterns an
 -Enables comparison of voting trends across states
 
 -Shows geographical distribution of election outcomes
+<img width="1440" height="812" alt="Screenshot 2026-03-23 140031" src="https://github.com/user-attachments/assets/59b3629a-94db-4940-b705-4cdc1ed235ea" />
+
 ### 3.Constituency Analysis
 Focus: Analyzes election data at the state level, showing how voting patterns and party performance vary across different regions.
 ### Key Insights:
@@ -49,6 +53,8 @@ Focus: Analyzes election data at the state level, showing how voting patterns an
 -Highlights close contests vs. one-sided victories
 
 -Enables detailed comparison between candidates
+<img width="1437" height="806" alt="Screenshot 2026-03-23 140058" src="https://github.com/user-attachments/assets/c88bd41e-3d23-4941-9577-3e2e45bdf322" />
+
 ### 4. Party Strategy & Performance Analysis
 Focus: Examines party-wise strategies and performance using vote share, winning margins, and regional influence.
 ### Key Insights:
@@ -59,6 +65,8 @@ Focus: Examines party-wise strategies and performance using vote share, winning 
 -Highlights winning margins to understand competition intensity
 
 -Shows how party performance varies by state and constituency
+<img width="1435" height="810" alt="Screenshot 2026-03-23 140124" src="https://github.com/user-attachments/assets/4c369672-0778-48b0-9db5-93d93e6d1b28" />
+
 ## Tools & Technologies Used
 -Power BI 
 
