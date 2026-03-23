@@ -20,7 +20,7 @@ ElectViz is an interactive election data visualization project designed for medi
 📈 Interactive dashboards with dynamic visuals
 ## Dashboard Overview
 ### 1.Overview Analysis
-Focus:Provides a high-level summary of the entire election dataset, including total votes, candidates, parties, and overall vote share distribution.
+Focus: Provides a high-level summary of the entire election dataset, including total votes, candidates, parties, and overall vote share distribution.
 ### Key Insights:
 -Identifies the leading political party based on total votes
 
@@ -29,3 +29,58 @@ Focus:Provides a high-level summary of the entire election dataset, including to
 -Highlights vote share distribution among major and minor parties
 
 -Provides a quick snapshot for media-level understanding
+### 2.State Analysis 
+Focus: Analyzes election data at the state level, showing how voting patterns and party performance vary across different regions.
+### Key Insights:
+-Highlights states with the highest voter turnout
+
+-Identifies regional strongholds of political parties
+
+-Enables comparison of voting trends across states
+
+-Shows geographical distribution of election outcomes
+### 3.Constituency Analysis
+Focus: Analyzes election data at the state level, showing how voting patterns and party performance vary across different regions.
+### Key Insights:
+-Identifies winning candidates and their vote margins
+
+-Shows party dominance at a constituency level
+
+-Highlights close contests vs. one-sided victories
+
+-Enables detailed comparison between candidates
+### 4. Party Strategy & Performance Analysis
+Focus: Examines party-wise strategies and performance using vote share, winning margins, and regional influence.
+### Key Insights:
+-Compares vote share percentages across parties
+
+-Identifies high-performing and underperforming parties
+
+-Highlights winning margins to understand competition intensity
+
+-Shows how party performance varies by state and constituency
+## Tools & Technologies Used
+-Power BI 
+
+-Data Visualization Techniques
+
+-Data Cleaning & Transformation
+## Dataset
+Click here to view the dataset 
+## Key Insights
+-Identified top-performing political parties across years
+
+-Analyzed voter distribution across states
+
+-Highlighted constituency-level competition
+
+-Compared candidate performance and winning margins
+## How to Use
+1.Download the .pbix file from this repository
+
+2.Open it using Power BI Desktop
+
+3.Interact with filters and visuals to explore insights
+## Author
+Snehal Gurnule
+ElectViz Project – Election Data Visualization for Media
